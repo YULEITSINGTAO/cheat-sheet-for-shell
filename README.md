@@ -1,7 +1,15 @@
-# cheat-sheet-for-shell
+# Cheat Sheet For Shell
 This is a shell cheat sheet to help user
 # Basic introduction for Unix system
 - File's extension is not important in Unix system
+
+# Filename Reminders
+
+- Case MaTTerS
+- File Extensions (e.g. .txt .doc .docx) don't matter
+- Avoid spaces in filenames
+- Files starting with '.' are hidden by default
+- Backup files created by some editors will be appended with ~
 
 # commond 
 ## Cat: 
